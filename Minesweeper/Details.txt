@@ -1,0 +1,13 @@
+Minesweeper
+
+Note: run in python 3.10, must have installed correct versions of libaries
+
+using pip:
+
+pip install pygame - for the display/game
+pip install mysql - for the database
+
+scoring system is real time, only standard gamemodes are displayed.
+
+BLUE text is the score: this shows what percentage of the board is complete
+RED text is the Time: this is a digital clock that records how long it took for you to complete the board
